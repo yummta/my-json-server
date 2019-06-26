@@ -42,5 +42,199 @@
       "lat": 31.213889,
       "lon": 29.885556
     }
+  ],
+  "restaurants": [
+    {
+      "id": 100,
+      "name": "Las Brujas de Cachiche",
+      "price_type": "medium",
+      "address": {
+        "name": "Jorge Chavez 6969",
+        "latitud": -12.1134279,
+        "longitud": -77.0380912
+      },
+      "menu_items": [
+        {
+          "id": 1,
+          "name": "dessert1",
+          "description": null,
+          "estimated_time": 20,
+          "price": 7
+        },
+        {
+          "id": 2,
+          "name": "dessert2",
+          "description": null,
+          "estimated_time": 30,
+          "price": 7.5
+        }
+      ]
+    },
+    {
+      "id": 102,
+      "name": "Edo Sushi Bar",
+      "price_type": "low",
+      "address": {
+        "name": "Jorge Chavez 7777",
+        "latitud": -12.1166931,
+        "longitud": -77.0281498
+      },
+      "menu_items": [
+        {
+          "id": 1,
+          "name": "dessert1",
+          "description": null,
+          "estimated_time": 50,
+          "price": 17
+        },
+        {
+          "id": 21,
+          "name": "dessert2",
+          "description": null,
+          "estimated_time": 40,
+          "price": 75
+        }
+      ]
+    },
+    {
+      "id": 103,
+      "name": "La Maise",
+      "price_type": "expensive",
+      "address": {
+        "name": "Jorge Chavez 7777",
+        "latitud": -12.1166931,
+        "longitud": -77.0281498
+      }
+    },
+    {
+      "id": 104,
+      "name": "La Ricotona",
+      "price_type": "low",
+      "address": {
+        "name": "Jorge Chavez 7777",
+        "latitud": -12.1166931,
+        "longitud": -77.0281498
+      },
+      "menu_items": [
+        {
+          "id": 1,
+          "name": "dessert1",
+          "description": null,
+          "estimated_time": 50,
+          "price": 17
+        },
+        {
+          "id": 21,
+          "name": "dessert2",
+          "description": null,
+          "estimated_time": 40,
+          "price": 75
+        }
+      ]
+    },
+    {
+      "id": 105,
+      "name": "El dragón de fuego",
+      "price_type": "low",
+      "address": {
+        "name": "Jorge Chavez 7777",
+        "latitud": -12.1166931,
+        "longitud": -77.0281498
+      },
+      "menu_items": [
+        {
+          "id": 1,
+          "name": "dessert1",
+          "description": null,
+          "estimated_time": 50,
+          "price": 17
+        },
+        {
+          "id": 21,
+          "name": "dessert2",
+          "description": null,
+          "estimated_time": 40,
+          "price": 75
+        }
+      ]
+    },
+    {
+      "id": 106,
+      "name": "Cocona & bulls",
+      "price_type": "low",
+      "address": {
+        "name": "Jorge Chavez 7777",
+        "latitud": -12.1166931,
+        "longitud": -77.0281498
+      },
+      "menu_items": [
+        {
+          "id": 1,
+          "name": "dessert1",
+          "description": null,
+          "estimated_time": 50,
+          "price": 17
+        },
+        {
+          "id": 21,
+          "name": "dessert2",
+          "description": null,
+          "estimated_time": 40,
+          "price": 75
+        }
+      ]
+    },
+    {
+      "id": 107,
+      "name": "Challenge",
+      "price_type": "low",
+      "address": {
+        "name": "Jorge Chavez 7777",
+        "latitud": -12.1166931,
+        "longitud": -77.0281498
+      },
+      "menu_items": [
+        {
+          "id": 1,
+          "name": "dessert1",
+          "description": null,
+          "estimated_time": 50,
+          "price": 17
+        },
+        {
+          "id": 21,
+          "name": "dessert2",
+          "description": null,
+          "estimated_time": 40,
+          "price": 75
+        }
+      ]
+    },
+    {
+      "id": 108,
+      "name": "Cuchi Restobar",
+      "price_type": "low",
+      "address": {
+        "name": "Jorge Chavez 7777",
+        "latitud": -12.1166931,
+        "longitud": -77.0281498
+      },
+      "menu_items": [
+        {
+          "id": 1,
+          "name": "dessert1",
+          "description": null,
+          "estimated_time": 50,
+          "price": 17
+        },
+        {
+          "id": 21,
+          "name": "dessert2",
+          "description": null,
+          "estimated_time": 40,
+          "price": 75
+        }
+      ]
+    }
   ]
 }
